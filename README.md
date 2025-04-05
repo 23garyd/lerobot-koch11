@@ -1,5 +1,7 @@
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9d4spT3aNjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <a href="https://www.youtube.com/watch?v=9d4spT3aNjg" target="_blank">
+    <img src="https://img.youtube.com/vi/9d4spT3aNjg/0.jpg" alt="LeRobot Video" style="max-width: 100%;">
+  </a>
   <br/>
   <br/>
 </p>
